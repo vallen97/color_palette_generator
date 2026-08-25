@@ -1,6 +1,6 @@
 # Golden Angle Color Palette Generator
 ## Project Overview
-This project is a C++ command-line tool designed to parse an image, extract its global average color, and procedurally generate a harmonious, organic color palette. Instead of relying on standard, rigid color schemes (like triadic or tetradic), this tool leverages the Golden Angle (137.5°)—a mathematical proportion derived from the Fibonacci sequence to calculate complementary hues that feel naturally balanced.
+This project is a C++ command line tool designed to parse an image, extract its global average color, and procedurally generate a harmonious, organic color palette. Instead of relying on standard, rigid color schemes (like triadic or tetradic), this tool leverages the Golden Angle (137.5°) a mathematical proportion derived from the Fibonacci sequence to calculate complementary hues that feel naturally balanced.
 
 Building an application that loads an image, samples a base color, and generates a harmonious palette teaches core concepts spanning domain modeling, mathematical transformations, UI theme mechanics, and asynchronous processing.
 
